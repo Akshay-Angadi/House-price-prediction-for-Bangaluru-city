@@ -1,4 +1,4 @@
-# House-price-prediction-for-Bangaluru-city
+# House-price-prediction-for-Bengaluru-city
 
 ## Bengaluru House Price Prediction Using Linear Regression
 The Bengaluru House Price Prediction Project! In this project, we have developed a machine learning model using linear regression to predict house prices in the vibrant city of Bengaluru. Our model takes various features related to houses as input and provides an estimated price as output.
